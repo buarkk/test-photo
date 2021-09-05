@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616649088024",
+    "project_id": "photo-fe1c2",
+    "storage_bucket": "photo-fe1c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616649088024:android:614eb7011d8ea4f162b76d",
+        "android_client_info": {
+          "package_name": "org.dashnet.photofinder1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616649088024-csgdsq6utvssabg4i228msmfmssrcg78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQJ6C6OYxDuKVgP2AEZNKCIURmiXgCI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616649088024-csgdsq6utvssabg4i228msmfmssrcg78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
